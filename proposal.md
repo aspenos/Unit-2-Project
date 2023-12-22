@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 SoundScout
 
 Project Description
@@ -46,3 +47,4 @@ Day 11|	Backend Development - Code backend logic, set up dummy data.	           
 Day 12|	Integrating Frontend and Backend - Connect frontend with backend, test data display.	   |        No
 Day 13|	Testing and Debugging - Test functionalities, debug issues.	                               |        No
 Day 14|	Review and Plan - Review progress, document achievements, plan next steps.	               |        No
+=======
